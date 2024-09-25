@@ -1,4 +1,4 @@
-#Mi Información de estudiante
+# Mi Información de estudiante
 
 - 👋 Hi, I’m @Edubal2
 - 👀 I’m interested in ...
