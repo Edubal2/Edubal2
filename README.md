@@ -8,9 +8,7 @@
 
 ![Technoblade](https://static.wikia.nocookie.net/qsmp/images/c/cc/Techno.Skin.png/revision/latest?cb=20230518032249)
 
+- Estas son algunas de sus citas que son mis favoritas
+>
 - Recientemente he empezado a jugar a God Of War un videojuego de la empresa _Santa Monica Studio_
 
-<!---
-Edubal2/Edubal2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
