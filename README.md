@@ -8,7 +8,11 @@
 
 ![Technoblade](https://static.wikia.nocookie.net/qsmp/images/c/cc/Techno.Skin.png/revision/latest?cb=20230518032249)
 
-- Estas son algunas de sus citas que son mis favoritas
->
+ De sus citas mas famosas estas son mis favoritas
+  
+>"Rank number 1 isn't an achievement, it's a prison which forces you to dedicate your life to defend a temporary title."
+>"Technoblade never dies."
+
+
 - Recientemente he empezado a jugar a God Of War un videojuego de la empresa _Santa Monica Studio_
 
