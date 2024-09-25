@@ -23,3 +23,5 @@
 
 - Y **Dead Space Remake** un juego de _EA Games_ sobre un ingenieros que van a una nave minera que ha sido asaltada por mutantes
 
+![DSR](https://i.blogs.es/a14c32/dead-space-media-slide-03-usp-03.jpg.adapt.1456w/500_333.jpeg)
+
