@@ -18,6 +18,8 @@
 
 ### Videojuegos
 - Recientemente he empezado a jugar a **God Of War** una saga de videojuegos de la empresa _Santa Monica Studio_ sobre mitologia griega y nordica
+  
 ![GOW](https://i.ytimg.com/vi/gOE2BVRCUkM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB0KxFjJE38O0ovpjcwGBe1zWPDEg)
+
 - Y **Dead Space Remake** un juego de _EA Games_ sobre un ingenieros que van a una nave minera que ha sido asaltada por mutantes
 
